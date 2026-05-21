@@ -1,4 +1,4 @@
-# 📄 Hrituraj Roy — Resume (LaTeX)
+#  Hrituraj Roy 
 
 > My personal resume built with LaTeX using [Jake's Resume Template](https://github.com/jakegut/resume). Clean, ATS-friendly, and version-controlled.
 
