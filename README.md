@@ -8,7 +8,7 @@
 
 | Platform | Link |
 |---|---|
-| 🌐 Portfolio | [myself-roy.onrender.com](https://myself-roy.onrender.com/) |
+| 🌐 Portfolio | [myself-roy.onrender.com](https://myself.hrituraj.site/) |
 | 💼 LinkedIn | [hrituraj-roy-12340a299](https://www.linkedin.com/in/hrituraj-roy-12340a299/) |
 | 🐙 GitHub | [Roy-code5k](https://github.com/Roy-code5k) |
 | 💻 LeetCode | [Profile](https://leetcode.com/u/DQFj7dOfZr/) |
